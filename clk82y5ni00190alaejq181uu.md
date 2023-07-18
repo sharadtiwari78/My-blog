@@ -8,7 +8,7 @@ tags: cloud, aws, cloud-computing, devops, aws-certified-solutions-architect-ass
 
 ---
 
-## **Amazon Ec2 with Lab:**
+## **Amazon EC2 with Lab:**
 
 ### *Introduction:*
 
@@ -235,7 +235,7 @@ Great website: [click here](https://instances.vantage.sh/)
     sudo systemctl start httpd
     sudo systemctl enable httpd
     # Set up a custom index.html file
-    echo "<h1>Hello World from $(hostname -f) in AZ</h1>" > var/www/html/index.html 
+    echo "<h1>Hello World from $(hostname -f) in AZ</h1>" > var/www/html/index.html
     ```
     
 11. Configure the number of instances, and Review the summary.

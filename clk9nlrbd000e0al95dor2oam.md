@@ -3,6 +3,7 @@ title: "AWS Solution Architect Associate Certification"
 datePublished: Wed Jul 19 2023 11:42:14 GMT+0000 (Coordinated Universal Time)
 cuid: clk9nlrbd000e0al95dor2oam
 slug: aws-solution-architect-associate-certification-1-1-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689768059901/8f7dc0dd-701c-4930-89f7-715ba60685e2.png
 tags: cloud, aws, devops, ssh, 90daysofdevops
 
 ---

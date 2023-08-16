@@ -1,8 +1,8 @@
 ---
-title: "AWS Solution Architect Associate Certification"
+title: "AWS global Infrastructure"
 datePublished: Sun Jul 16 2023 19:32:05 GMT+0000 (Coordinated Universal Time)
 cuid: clk5u2frj00030ajs6lwm25nd
-slug: aws-solution-architect-associate-certification-1
+slug: aws-global-infrastructure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689534914982/99fd1b4f-a6de-4cb8-9965-0d754a91dfd9.jpeg
 tags: aws, devops, aws-certified-solutions-architect-associate, shubhamlondhe, tws
 

@@ -1,8 +1,8 @@
 ---
-title: "AWS Solution Architect Associate Certification"
+title: "What is Amazon EC2"
 datePublished: Tue Jul 18 2023 09:16:15 GMT+0000 (Coordinated Universal Time)
 cuid: clk82y5ni00190alaejq181uu
-slug: aws-solution-architect-associate-certification-1-1
+slug: what-is-amazon-ec2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689670474351/3fb8af81-755b-483f-ab6e-5782b05f2eec.png
 tags: cloud, aws, cloud-computing, devops, aws-certified-solutions-architect-associate
 

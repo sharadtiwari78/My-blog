@@ -1,8 +1,8 @@
 ---
-title: "AWS Solution Architect Associate Certification"
+title: "What is public and Private IP"
 datePublished: Thu Jul 27 2023 14:41:52 GMT+0000 (Coordinated Universal Time)
 cuid: clkl9jl3u001109l8enn22q2w
-slug: aws-solution-architect-associate-certification-1-1-1-1-1
+slug: what-is-public-and-private-ip
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690468348124/15604612-1ea0-4950-bc36-c626f2514c1e.png
 tags: aws, aws-certified-solutions-architect-associate, aws-community, tws, priavte-vs-public-ip
 

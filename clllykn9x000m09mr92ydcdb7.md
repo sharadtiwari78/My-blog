@@ -3,7 +3,7 @@ title: "Hosting a Static Website on Amazon S3 using Terraform"
 datePublished: Tue Aug 22 2023 07:02:14 GMT+0000 (Coordinated Universal Time)
 cuid: clllykn9x000m09mr92ydcdb7
 slug: hosting-a-static-website-on-amazon-s3-using-terraform
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692687591799/ed4ccfc2-22a8-4210-8dcc-bd6ed97c5679.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692688112545/81160fc1-0318-4484-8e15-4eabf7ddb337.png
 tags: aws, terraform, aws-cloudfront, aws-community, s3-bucket
 
 ---
